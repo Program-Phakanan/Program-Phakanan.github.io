@@ -2,7 +2,7 @@
 # PUFFERFISH PORTFOLIO THEME CONFIGURATION
 # ==============================================================================
 # Remote Theme - แก้ไข yourusername เป็น GitHub username ที่เก็บ theme
-remote_theme: program.phakanan/pufferfish-portfolio-theme
+remote_theme: Program-Phakanan/pufferfish-portfolio-theme
 
 # ==============================================================================
 # BASIC INFORMATION
