@@ -4,6 +4,8 @@ Certificate
 Git-wrapped
 + [git-wrapped](git-wrapped.md)
 
+Steganography
++ [steganography](/assets/img/Steganography.png)
 
 
 + [authentication](authentication)
