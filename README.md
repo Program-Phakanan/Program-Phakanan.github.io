@@ -1,4 +1,4 @@
-+[git-wrapped](git-wrapped.md)
++ [git-wrapped](git-wrapped.md)
 
 
 
