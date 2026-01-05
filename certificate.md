@@ -8,14 +8,6 @@ permalink: /certificates/
 
 ## Professional Certifications
 
-{% for cert in site.certificate %}
-### {{ cert.name }}
++ [Arm Cybersecurity Fundamentals](../assets/certificate/Arm-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf)
 
-**Issuer:** {{ cert.issuer }}
-
-[📜 View Certificate (PDF)]({{ site.baseurl }}/{{ cert.file }}){:target="_blank"}
-
----
-{% endfor %}
-
-[← Back to Portfolio]({{ site.baseurl }}/)
+[← Back to Portfolio](../)
