@@ -1,0 +1,16 @@
+title: Phakanan - Developer Portfolio
+description: Backend Developer | Spring Boot | Kotlin | Database Optimization
+show_downloads: false  
+google_analytics: 
+theme: jekyll-theme-midnight
+
+
+author: Phakanan
+email: program.phakanan@gmail.com
+
+
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
