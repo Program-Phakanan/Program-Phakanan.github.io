@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Git Wrapped 2024
+title: Git Wrapped 2025
 permalink: /git-wrapped/
 ---
 
-# Git Wrapped 2024
+# Git Wrapped 2025
 
 ![Git Wrapped - Phakanan](/assets/img/git-wrapped-Program-Phakanan.png)
 
@@ -12,6 +12,6 @@ permalink: /git-wrapped/
 
 ## GitHub Activity Summary
 
-This visualization showcases my GitHub contributions and activities throughout 2024.
+This visualization showcases my GitHub contributions and activities throughout 2025.
 
 [← Back to Portfolio](../)
