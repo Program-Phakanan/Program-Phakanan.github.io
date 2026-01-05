@@ -5,7 +5,7 @@ Git-wrapped
 + [git-wrapped](git-wrapped.md)
 
 Steganography
-+ [steganography](/assets/img/Steganography.png)
++ [steganography](steganography.md)
 
 Word
 + [authentication](authentication)
