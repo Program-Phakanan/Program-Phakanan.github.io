@@ -6,7 +6,7 @@ permalink: /git-wrapped/
 
 # Git Wrapped 2024
 
-![Git Wrapped - Phakanan](../assets/img/git-wrapped-Program-Phakanan.png)
+![Git Wrapped - Phakanan](/assets/img/git-wrapped-Program-Phakanan.png)
 
 ---
 
