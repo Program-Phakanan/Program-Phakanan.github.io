@@ -4,11 +4,22 @@ show_downloads: false
 google_analytics: 
 theme: jekyll-theme-modernist
 
-
 author: Phakanan
 email: program.phakanan@gmail.com
 
+certificate:
+  - name: "Arm Cybersecurity Fundamentals"
+    file: "./assets/certificate/Arm-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf"
+    issuer: "APNIC Academy"
 
+images:
+  git_wrapped: "./assets/img/git-wrapped-Program-Phakanan.png"
+
+navigation:
+  - title: "Certificates"
+    url: "/certificates/"
+  - title: "Git Wrapped"
+    url: "/git-wrapped/"
 
 markdown: kramdown
 plugins:
