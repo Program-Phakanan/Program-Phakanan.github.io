@@ -6,7 +6,7 @@ permalink: /git-wrapped/
 
 # Git Wrapped 2024
 
-![Git Wrapped - Phakanan]({{ site.baseurl }}/{{ site.images.git_wrapped }})
+![Git Wrapped - Phakanan](../assets/img/git-wrapped-Program-Phakanan.png)
 
 ---
 
@@ -14,4 +14,4 @@ permalink: /git-wrapped/
 
 This visualization showcases my GitHub contributions and activities throughout 2024.
 
-[← Back to Portfolio]({{ site.baseurl }}/)
+[← Back to Portfolio](../)
