@@ -5,7 +5,7 @@ Git-wrapped
 + [git-wrapped](git-wrapped.md)
 
 Steganography
-+ [steganography](steganography.md)
++ [steganography](steganography-online.md)
 
 Word
 + [authentication](authentication)
