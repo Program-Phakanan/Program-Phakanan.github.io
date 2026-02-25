@@ -13,5 +13,6 @@ Word
 + [firewall](firewall)
 
 
-  Labsim
-+ [Secure-a-Switch](secure-a-switch)
+Labsim
++ [Lab 5.7.6 — Secure a Switch](secure-a-switch)
++ [Lab 5.2.7 — Configure a Security Appliance](configure-a-security-appliance)
